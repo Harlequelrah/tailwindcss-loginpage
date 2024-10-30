@@ -4,7 +4,24 @@
 
 .input {
     @apply border shadow-inner py-2 px-3 text-gray-700 w-full;
-    &:focus{
-    @apply shadow-lg;
+
+    &:focus {
+        @apply shadow-lg;
+    }
 }
+
+.login-card {
+    @apply bg-white shadow-lg max-w-lg;
+
+    @screen md {
+        display: flex;
+    }
+}
+
+.btn {
+    @apply rounded px-4 py-2 bg-blue-500 text-white;
+
+    &:hover {
+        @apply bg-blue-600;
+    }
 }

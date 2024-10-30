@@ -4,7 +4,7 @@ Ce projet est une page de connexion simple utilisant [Tailwind CSS](https://tail
 
 ## Aperçu
 
-![Capture d'écran 1](screenshot1.jpg)
+![Capture d'écran 1](screenshots/screenshot.png)
 *Page de connexion avec fond gris clair*
 
 
